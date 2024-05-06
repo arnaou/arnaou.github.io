@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Adem Rosenkvist Nielsen Aouichaoui"
 title_separator          : "-"
-name                     : &name "Adem "
-description              : &description "Postdoc"
+name                     : &name "Adem Rosenkvist Nielsen"
+description              : &description "my personal website"
 url                      : https://arnaou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arnaou/arnaou.github.io"
@@ -205,7 +205,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
