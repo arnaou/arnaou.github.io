@@ -21,7 +21,7 @@ repository               : "arnaou/arnaou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_adem.png"
   name             : "Adem R.N. Aouichaoui"
   pronouns         : # example: "she/her"  
   bio              : "ML for Molecules"
