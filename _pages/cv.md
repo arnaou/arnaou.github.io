@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Data-driven thermodynamics, Process systems engineering center (PROSYS), Technical University of Denmark, Denmark, 2023
+* Ph.D *Data-driven thermodynamics*, Process systems engineering center (PROSYS), Technical University of Denmark, Denmark, 2023
   * 3-months at External stay at the Institute of Thermal Separation Processes, Hamburg University of Technology, Hamburg, Germany, 2023
-* M.S. in Chemical and biochemical engineering (honors), Technical University of Denmark, Denmark,2019
-  * 6-months at Monach University, Melbourne, Australia, 2018
-* B.Eng in chemistry and biotechnology, Technical University of Denmark, Denmark,2017
+* M.S. *Chemical and biochemical engineering (honors)*, Technical University of Denmark, Denmark,2019
+  * 6-months at Monash University, Melbourne, Australia, 2018
+* B.Eng *Chemistry and biotechnology*, Technical University of Denmark, Denmark,2017
 
 Work experience
 ======
