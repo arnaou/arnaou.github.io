@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Data-driven thermodynamics, Technical University of Denmark, Denmark, 2023
-* M.S. in Chemical and biochemical engineering, 2019
-* B.Eng in chemistry and biotechnology 2017
+* Ph.D in Data-driven thermodynamics, Process systems engineering center (PROSYS), Technical University of Denmark, Denmark, 2023
+  * 3-months at External stay at the Institute of Thermal Separation Processes, Hamburg University of Technology, Hamburg, Germany, 2023
+* M.S. in Chemical and biochemical engineering (honors), Technical University of Denmark, Denmark,2019
+  * 6-months at Monach University, Melbourne, Australia, 2018
+* B.Eng in chemistry and biotechnology, Technical University of Denmark, Denmark,2017
 
 Work experience
 ======

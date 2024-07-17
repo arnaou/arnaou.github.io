@@ -7,29 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-This is Adem R.N. Aouichaoui's home on the web!
+Hey hey welcome to Adem R.N. Aouichaoui's personal page! 👋👋
 
-Currently a postdoctoral researcher at the [Process Systems Engineering center PROSYS](https://www.kt.dtu.dk/research/prosys), [Department of chemical & biochemical
-engineering](https://www.kt.dtu.dk/) at the [Technical University of Denmark (DTU)](https://www.dtu.dk/english/)
+Previousely a postdoctoral researcher at the [Process Systems Engineering center PROSYS](https://www.kt.dtu.dk/research/prosys), [Department of chemical & biochemical
+engineering](https://www.kt.dtu.dk/) at the [Technical University of Denmark (DTU)](https://www.dtu.dk/english/) and currently seeking new challenges within academia in 
+applying data-driven methods for molecular science and process systems engineering (PSE).
 
-A data-driven personal website
+During my Ph.D. i worked with developping and applying Graph Neural Networks for pure componenent property prediction. the work was carried out under thr supervision of [Prof. Gürkan Sin](https://orbit.dtu.dk/en/persons/g%C3%BCrkan-sin) and [Assoc. prof. Jens Abildskov](https://orbit.dtu.dk/en/persons/jens-abildskov). The properties target are of great importance to a wide range of diciplices such as phase equilibria, reaction engineering, enviromental/risk assessment and solvetn screening. The general aim is to provide new tools for solvent screening that genralize better and describe a larger portion of the chemical design space.
+A main contribution was the development of GroupGAT and AGC, two interporetable GNN models that leverages the concept of functional groups (known from the group-contribution models) to highlight parts of the molecules with highest impact on the laten representation produced by the GNN. these insights were confirmed by chemistry knwoledge.
+
+Latest News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+* 19-06-2024: I gave a talk at the KT consortium annual meeting titled "MLEEP: Towards Optimizing The Processing Industry Using First Principles & Machine Learning".
+* 04-06-2024: I gave a talk titled "Towards self-consistent graph neural networks for predicting the ideal heat capacity, enthalpy and entropy" at the combined european Symposium of computer-aided process engineering and symposium of process systems engineering (ESCAPE34-PSE24). The work was carried out in collaboration with Dr.-Ing. Simon Müller from the technical university of Hamburg. You can read the work [here](https://www.sciencedirect.com/science/article/abs/pii/B9780443288241504737).
+* 03-06-2024: I had a poster pressentation titled "Scoping and Identifying Data-Driven Optimization Prospects in the Danish Processing Industry" at the combined european Symposium of computer-aided process engineering and symposium of process systems engineering (ESCAPE34-PSE24). You can read the work [here](https://www.sciencedirect.com/science/article/abs/pii/B9780443288241500764).
+* 03-06-2024: I contributed to a poster pressentation titled "Energy- and process real-time optimization through hybrid modeling - a case from Viking Malt A/S" at the combined european Symposium of computer-aided process engineering and symposium of process systems engineering (ESCAPE34-PSE24). You can read the work [here](https://www.sciencedirect.com/science/article/abs/pii/B9780443288241502751).
+* 31-05-2024: I finalized a 1-year postdoc at PROSYS-DTU.
 
 
 
+
+*updated on 17-07-2024*
