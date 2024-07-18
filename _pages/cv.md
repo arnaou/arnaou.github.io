@@ -26,31 +26,58 @@ Research experience
   * Part of the [MLEEP](https://mleep.dk/) project with Assoc. prof [Jakob Kjøbsted Huusom](https://orbit.dtu.dk/en/persons/jakob-kj%C3%B8bsted-huusom)
     * Industrial data preprocessing, data analytics, data visualization, mechanistic modelling of various processes (heat exchangers, evaporators and distillation columns)
   * Part of the [AIM-Bio](https://aim-bio.ncsu.edu/) project with [Prof. Krist Gernaey](https://orbit.dtu.dk/en/persons/krist-victor-bernard-gernaey) 
-    * Investigate the potential of digita-twins for pilot scale liquid-chromatography 
+    * Investigate the potential of digital-twins for pilot scale liquid-chromatography 
 
 * Doctoral researcher - (December 2019- April 2023)
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Process systems engineering center - PROSYS, Technical university of Denmark (DTU), Denmark
+  * PIs: [Prof. Gürkan Sin](https://orbit.dtu.dk/en/persons/g%C3%BCrkan-sin) and [Assoc. prof. Jens Abildskov](https://orbit.dtu.dk/en/persons/jens-abildskov)
+  * Machine learning and deep learning application for new and improved property prediction
 
 * Research Assistant - (December 2021 - April 2022)
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Process systems engineering center - PROSYS, Technical university of Denmark (DTU), Denmark
+  * PI: [Prof. Gürkan Sin](https://orbit.dtu.dk/en/persons/g%C3%BCrkan-sin)
+  * Deep-Learning for nitrous oxide emission characterization: modelling & uncertainty/sensitivity analysis
 
 * Research Assistant - (August 2019 - September 2019)
   * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * PI: [Emeri. Kaj Thomasen](https://www.dtu.dk/english/person/kaj-thomsen?id=2471&entity=profile)
+  * Thermodynamic modelling of carbon capture systems (CO2-MDEA-H2O).
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Process modelling
+* Thermodynamic modelling
+* Programming (Python, Matlab, GAMS)
+* Machine learning (ML)
+* Molecular property modelling
+* Computer-aided molecular design (CAMD)
+
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+M.Sc. Theses supervised
+======
+* **2024** Thomas Swagerman (TBD), *Development of a Streamlined Modelling Platform for Chemical Property Prediction*
+* **2024** Paul Gerard R Seghers (TBD), *Hybrid modelling using graph neural networks for molecular properties*
+* **2024** Yitong Yang (TBD), *Extending ranges of property prediction methods using machine learning* 
+* **2023** Alessandro Cogliati (TBD), *Development and deployment of Deep-learning based property models*
+* **2022** Nicolai Dynweber Bruhn (TBD), *AI Assisted reverse engineering of molecules*
+* **2022** Fan Fan (TBD), *Graph neural networks and uncertainty analysis for pure compound properties*
+* **2021** Esther Mang Zing (TBD), *Application of Graph Neural Networks for chemical property prediction*
+
+
+B.Eng. Theses supervised
+======
+* **2022** Nichlas Uhrenholt Nielsen (TBD), *Deep-Learning modelling for nitrous oxide  emission characterization*
+* **2021** Amalie Elsborg Andersen (now Development scientist Novo Nordisk), *Modeling of Biochemical Reaction Equilibria*, DTU.
+
+Special supervised
+======
+* **2024** Felix Oscar Ærtebjerg (TBD), *Data-driven feature extraction and prediction using Deep Neural Networks*
+* **2021** Amalie Elsborg Andersen (TBD), *Stability analysis of liquid mixtures*
 
 Publications
 ======
@@ -64,13 +91,5 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 
-M.Sc. Theses supervised
-======
-* **2024** Yitong Yang (), ** 
+  
