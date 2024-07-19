@@ -71,13 +71,13 @@ M.Sc. Theses supervised
 
 B.Eng. Theses supervised
 ======
-* **2022** Nichlas Uhrenholt Nielsen (TBD), *Deep-Learning modelling for nitrous oxide  emission characterization*
+* **2022** Nichlas Uhrenholt Nielsen (M.SC. student at DTU), *Deep-Learning modelling for nitrous oxide  emission characterization*
 * **2021** Amalie Elsborg Andersen (now Development scientist Novo Nordisk), *Modeling of Biochemical Reaction Equilibria*, DTU.
 
 Special supervised
 ======
-* **2024** Felix Oscar Ærtebjerg (TBD), *Data-driven feature extraction and prediction using Deep Neural Networks*
-* **2021** Amalie Elsborg Andersen (TBD), *Stability analysis of liquid mixtures*
+* **2024** Felix Oscar Ærtebjerg (M.Sc. student at DTU), *Data-driven feature extraction and prediction using Deep Neural Networks*
+* **2021** Amalie Elsborg Andersen (now Development scientist Novo Nordisk), *Stability analysis of liquid mixtures*
 
 Publications
 ======
