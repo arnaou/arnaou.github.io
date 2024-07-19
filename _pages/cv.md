@@ -40,7 +40,7 @@ Research experience
 
 * Research Assistant - (August 2019 - September 2019)
   * Github University
-  * PI: [Emeri. Kaj Thomasen](https://www.dtu.dk/english/person/kaj-thomsen?id=2471&entity=profile)
+  * PI: [Emeri. Kaj Thomsen](https://www.dtu.dk/english/person/kaj-thomsen?id=2471&entity=profile)
   * Thermodynamic modelling of carbon capture systems (CO2-MDEA-H2O).
   
 Skills

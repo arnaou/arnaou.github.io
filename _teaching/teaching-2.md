@@ -18,3 +18,4 @@ I have been a TA in the course in the following periods:
 * Fall 2020
 * Fall 2021
 
+[Link to course](https://kurser.dtu.dk/course/2024-2025/28852)

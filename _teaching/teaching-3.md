@@ -18,4 +18,4 @@ Teaching Assistant (TA) for the course. Main responsibilities:
 I have been a TA in the course in the following period:
 * Spring 2022
 
-
+[Link to course](https://kurser.dtu.dk/course/2024-2025/28350)
