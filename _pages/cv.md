@@ -47,7 +47,7 @@ Skills
 ======
 * Process modelling
 * Thermodynamic modelling
-* Programming (Python, Matlab, GAMS)
+* Programming (Python, Matlab, GAMS, Pytorch, Scikit-learn)
 * Machine learning (ML)
 * Molecular property modelling
 * Computer-aided molecular design (CAMD)
