@@ -3,7 +3,7 @@ title: "Uncertainty and sensitivity analysis of numerical models"
 collection: teaching
 type: "Ph.D.-level course"
 permalink: /teaching/teaching-4
-venue: "Technical University of Denmark, Department of chemical and biochemical engineering"
+venue: "Technical University of Denmark, Department of Chemical and Biochemical Engineering"
 date: 2021-08-01
 location: "Lyngby, Denmark"
 ---

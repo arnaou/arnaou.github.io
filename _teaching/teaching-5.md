@@ -3,7 +3,7 @@ title: "Separation Processes"
 collection: teaching
 type: "Masters-level course"
 permalink: /teaching/teaching-5
-venue: "Technical University of Denmark, Department of chemical and biochemical engineering"
+venue: "Technical University of Denmark, Department of Chemical and Biochemical Engineering"
 date: 2023-09-01
 location: "Lyngby, Denmark"
 ---

@@ -3,7 +3,7 @@ title: "Risk Assessment in Chemical and Biochemical Industry"
 collection: teaching
 type: "Masters-level course"
 permalink: /teaching/teaching-2
-venue: "Technical University of Denmark, Department of chemical and biochemical engineering"
+venue: "Technical University of Denmark, Department of Chemical and Biochemical Engineering"
 date: 2020-02-01
 location: "Lyngby, Denmark"
 ---
