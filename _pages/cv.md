@@ -23,14 +23,14 @@ Research experience
 ======
 * Postdoc - (June 2023 - June 2024)
   * Process systems engineering center (PROSYS), Technical university of Denmark, Denmark
-  * Part of the [MLEEP](https://mleep.dk/) project with Assoc. prof [Jakob Kjøbsted Huusom](https://orbit.dtu.dk/en/persons/jakob-kj%C3%B8bsted-huusom)
+  * Part of the [MLEEP](https://mleep.dk/) project with [Assoc. Prof. Jakob Kjøbsted Huusom](https://orbit.dtu.dk/en/persons/jakob-kj%C3%B8bsted-huusom)
     * Industrial data preprocessing, data analytics, data visualization, mechanistic modelling of various processes (heat exchangers, evaporators and distillation columns)
   * Part of the [AIM-Bio](https://aim-bio.ncsu.edu/) project with [Prof. Krist Gernaey](https://orbit.dtu.dk/en/persons/krist-victor-bernard-gernaey) 
     * Investigate the potential of digital-twins for pilot scale liquid-chromatography 
 
 * Doctoral researcher - (December 2019- April 2023)
   * Process systems engineering center - PROSYS, Technical university of Denmark (DTU), Denmark
-  * PIs: [Prof. Gürkan Sin](https://orbit.dtu.dk/en/persons/g%C3%BCrkan-sin) and [Assoc. prof. Jens Abildskov](https://orbit.dtu.dk/en/persons/jens-abildskov)
+  * PIs: [Prof. Gürkan Sin](https://orbit.dtu.dk/en/persons/g%C3%BCrkan-sin) and [Assoc. Prof. Jens Abildskov](https://orbit.dtu.dk/en/persons/jens-abildskov)
   * Machine learning and deep learning application for new and improved property prediction
 
 * Research Assistant - (December 2021 - April 2022)
@@ -74,10 +74,11 @@ B.Eng. Theses supervised
 * **2022** Nichlas Uhrenholt Nielsen (M.SC. student at DTU), *Deep-Learning modelling for nitrous oxide  emission characterization*
 * **2021** Amalie Elsborg Andersen (now Development scientist Novo Nordisk), *Modeling of Biochemical Reaction Equilibria*, DTU.
 
-Special supervised
+Special Courses supervised
 ======
 * **2024** Felix Oscar Ærtebjerg (M.Sc. student at DTU), *Data-driven feature extraction and prediction using Deep Neural Networks*
 * **2021** Amalie Elsborg Andersen (now Development scientist Novo Nordisk), *Stability analysis of liquid mixtures*
+* **2021** Fan Fan (TBD), *Machine Learning for property prediction*
 
 Publications
 ======
