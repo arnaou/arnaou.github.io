@@ -1,11 +1,11 @@
 ---
 title: "Comparison of group-contribution and machine learning-based property prediction models with uncertainty quantification"
 collection: publications
-permalink: /publication/paper-2
+permalink: /publication/paper-c-1
 excerpt: 'In this paper, we benchmark and compare three models and techniques for uncertainty quantification applied to a group-contribution model for the lower flammability limit.'
 date: 2021-06-01
 venue: 'Computer Aided Chemical Engineering'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/B9780323885065501182'
+paperurl: 'https://doi.org/10.1016/B978-0-323-88506-5.50118-2'
 citation: 'Aouichaoui, A. R., Al, R., Abildskov, J., & Sin, G. (2021). Comparison of group-contribution and machine learning-based property prediction models with uncertainty quantification. In Computer Aided Chemical Engineering (Vol. 50, pp. 755-760). Elsevier.'
 ---
 
